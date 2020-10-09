@@ -12,6 +12,7 @@ django = "*"
 dload = "*"
 selenium = "*"
 bs4 = "*"
+openpyxl = "*"
 
 [requires]
 python_version = "3.8"
