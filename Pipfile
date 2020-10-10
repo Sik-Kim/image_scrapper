@@ -13,6 +13,7 @@ dload = "*"
 selenium = "*"
 bs4 = "*"
 openpyxl = "*"
+wordcloud = "*"
 
 [requires]
 python_version = "3.8"
